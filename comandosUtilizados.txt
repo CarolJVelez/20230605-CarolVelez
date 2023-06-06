@@ -1,0 +1,500 @@
+   25  git config --global user.email
+   26  git push origin master
+   27  code prueba.txt
+   28  git add 
+   29  git status
+   30  git add prueba.txt
+   31  git add build.xml
+   32  git add build/
+   33  git add manifest.mf
+   34  git add nbproject/
+   35  git add src/
+   36  git status
+   37  git add README.md
+   38  git status
+   39  git status
+   40  code prueba.txt
+   41  git status
+   42  git commit -am "cambios txt"
+   43  git status
+   44  git push origin master
+   45  git clone https://github.com/RolandPR/ProyectoRecaudo.git
+   46  git branch
+   47  git pull origin master
+   48  git pull origin main
+   49  git status
+   50  git add.
+   51  git add .
+   52  git add.
+   53  git status
+   54  git pull origin main
+   55  git status
+   56  git branch
+   57  git checkout -b DB origin/DB
+   58  git branch -a
+   59  git add .
+   60  git branch -a
+   61  git status
+   62  git clone --branch DB
+   63  git clone --branch DB https://github.com/RolandPR/ProyectoRecaudo.git
+   64  git branch
+   65  git branch -a
+   66  git clone https://github.com/RolandPR/ProyectoRecaudo.git
+   67  git brancj -r
+   68  git branch -r
+   69  git add origin/HEAD
+   70  git status
+   71  git add ProyectoRecaudo/
+   72  git status
+   73  git remote -v
+   74  git log
+   75  git clone --branch DB origin/DB
+   76  git clone --branch DB origin/main
+   77  git clone --branch DB origin/master
+   78  git checkout -b DB origin/DB
+   79  git checkout -b master 
+   80  git branch
+   81  git checkout -b DB
+   82  git pull origin master
+   83  git pull origin main
+   84  git checkout -b vistaAdmin
+   85  git pull origin main
+   86  git status
+   87  git log
+   88  git branch 
+   89  git checkout master
+   90  git status
+   91  git pull origin main
+   92  git log
+   93  git log --all
+   94  git clone https://github.com/RolandPR/ProyectoRecaudo.git
+   95  git branch -r
+   96  git branch
+   97  cd ProyectoRecaudo
+   98  git branch
+   99  git branch archivo
+  100  git checkout archivo
+  101  git pull origin archivo
+  102  git status
+  103  git checkout master
+  104  git checkout min
+  105  git checkout main
+  106  git branch DB
+  107  git checkout DB
+  108  git pull origin DB
+  109  git checkout main
+  110  git branch vistaAdmin
+  111  git checkout vistaAdmin
+  112  git pull origin vistaAdmin
+  113  git checkout main
+  114  git status
+  115  git pull origin main
+  116  git branch archivo 
+  117  git checkout archivo
+  118  git pull origin archivo
+  119  git checkout DB
+  120  git pull origin DB
+  121  git status
+  122  git checkout vistaAdmin
+  123  git pull origin vistaAdmin
+  124  git push origin vistaAdmin
+  125  git pull origin vistaAdmin --allow-unrelated-histories
+  126  git pull origin vistaAdmin
+  127  git status
+  128  git add pom.xml
+  129  git status
+  130  git commit -am "traje todo"
+  131  git checkout main
+  132  git pull origin main
+  133  git checkout archivo 
+  134  git pull origin archivo
+  135  git checkout DB
+  136  git pull origin DB
+  137  git checkout vistaAdmin
+  138  git pull origin vistaAdmin
+  139  git status
+  140  git log
+  141  git branch main
+  142  git checkout main
+  143  git pull origin main
+  144  cd..
+  145  cd..
+  146  cd 
+  147  cd ProyectoRecaudo
+  148  git chekout main
+  149  git checkout main
+  150  git checkout DB
+  151  git checkout vistaAdmin
+  152  git super log
+  153  git checkout DB 
+  154  git super log
+  155  git super log
+  156  git checkout main
+  157  git config --global alias.superlog "log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
+  158  git config -l
+  159  git superlog
+  160  git checkout main
+  161  git checkout DB
+  162  git checkout DB
+  163  git abort
+  164  git checkout main
+  165  git pull
+  166  git status
+  167  git reset
+  168  git status
+  169  git reset
+  170  git checkout main
+  171  clone [200~https://github.com/ChristianRaulRamirez/Spring-Backend.git~
+  172  clone https://github.com/ChristianRaulRamirez/Spring-Backend.git
+  173  git clone https://github.com/ChristianRaulRamirez/Spring-Backend.git
+  174  ng generate component lista-subsidios
+  175  ng g class subsidio
+  176  ng g s subsidio
+  177  ng generate module app-routing --flat --module=app
+  178  ng g c actualizar-subsidios
+  179  git clone https://github.com/elivarl/subir-archivos-spring.git
+  180  git clone https://github.com/elivarl/subir-archivos-spring.git
+  181  git pull origin master
+  182  ls 
+  183  cd [200~C:\Users\CAROL VELEZ\Downloads\Ejemplo\subir-archivos-spring~
+  184  git master
+  185  mkdir informes
+  186  cd informes
+  187  touch informeAnual.xls
+  188  ls
+  189  mkdir auditoria
+  190  touch auditoria.xls
+  191  touch reporteConsolidado.xls
+  192  ls-R
+  193  ls-r
+  194  ls -r
+  195  mv auditoria.xls auditoria
+  196  ls -r
+  197  cd auditoria
+  198  ls -r
+  199  cd repaso_clase1y2/
+  200  mv historia_de_la_contabilidad historia_de_la_informatica
+  201  mv que_haremos_hoy software_y_hardware
+  202  mv infraestructura git_bash_y_vscode
+  203  ls -R
+  204  ls -R
+  205  mkdir repaso_clase1y2
+  206  cd repaso_clase1y2/
+  207  mkdir historia_de_la_contabilidad
+  208  mkdir que_haremos_hoy 
+  209  mkdir servidores
+  210  mkdir interfaces_de_usuario
+  211  mkdir infraestructura
+  212  cd historia_de_la_contabilidad/
+  213  touch repaso.txt
+  214  cd que_haremos_hoy 
+  215  cd ..
+  216  cd que_haremos_hoy 
+  217  touch repaso.html
+  218  cd ..
+  219  cd servidores/
+  220  touch repaso.js
+  221  cd ..
+  222  cd interfaces_de_usuario/
+  223  touch repaso.css
+  224  cd ..
+  225  cd infraestructura/
+  226  touch repaso.java
+  227  ls -r
+  228  cd ..
+  229  ls -r
+  230  ls -R
+  231  git init
+  232  mkdir acti2
+  233  cd acti2
+  234  git init
+  235  touch app.js
+  236  git status
+  237  git add .
+  238  git status
+  239  mkdir mercadoAbierto
+  240  cd mercadoAbierto/
+  241  git init
+  242  touch productos.js
+  243  git status
+  244  git add .
+  245  git status
+  246  git commit -m "mi primer commit"
+  247  git status
+  248  ls -R
+  249  mkdir peliculas
+  250  cd servidores/
+  251  ls
+  252  nado repaso.js 
+  253  nano repaso.js 
+  254  cat repaso.js 
+  255  code
+  256  code .
+  257  code .
+  258  code .
+  259  cd ..
+  260  code .
+  261  history
+  262  history > comandos.txt
+  263  code .
+  264  mkdir Prueba Peliculas/Romanticas
+  265  mkdir Peliculas/Romanticas/Prueba 
+  266  cd Peliculas/
+  267  cd Romanticas/
+  268  mkdir Peliculas/Accion/Prueba2 
+  269  mkdir Accion/Prueba2 
+  270  mkdir ../Peliculas/Accion/Prueba2 
+  271  mkdir ../Accion/Prueba2 
+  272  code .
+  273  cd 
+  274  mkdir Peliculas
+  275  cd Peliculas/
+  276  mkdir Infantiles Accion Terror Comedia Romanticas
+  277  cd Infantiles/
+  278  touch Intenzamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+  279  cd ..
+  280  cd Accion/
+  281  touch "Smooth criminal.txt" "Diario de una pasion.js" "El hexorcista.xls" Cars.jpg
+  282  cd ..
+  283  cd terror 
+  284  touch "La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" "We will rock you.js" 
+  285  cd ..
+  286  cd Comedia/
+  287  touch Madagaskar.js "Orgullo y prejuicio.txt" IT.xls "Mision imposible.png"
+  288  cd ..
+  289  cd Romanticas/
+  290  touch Pocahontas.jpg Annabelle.js "Los vengadores.js" "La mascara.js"
+  291  cd ..
+  292  ls -R
+  293  cd
+  294  cd /d/Intro informatica/
+  295  cd d
+  296  cd D:\Intro informatica
+  297  ls
+  298  git --config global
+  299  git global --config
+  300  git global config
+  301  git global -- config
+  302  git config
+  303  git config --global
+  304  git config --list 
+  305  git config user.name CarolJVelez
+  306  git config --list 
+  307  git config user.name "CarolJVelez"
+  308  git config --list 
+  309  git config --global user.name "CarolJVelez"
+  310  git config --list 
+  311  git branch -M main
+  312  git init
+  313  git init
+  314  git branch -M main
+  315  ls -a
+  316  rm -rf .git
+  317  git init
+  318  git branch -M main
+  319  touch index.html script.js
+  320  code .
+  321  ls
+  322  git status
+  323  git add index.html
+  324  git status
+  325  git commit -m "primer commit"
+  326  git status
+  327  git log
+  328  git status
+  329  git add .
+  330  git status
+  331  git commit -m "añado segundo commit con cambios en el index y script"
+  332  git log
+  333  git log --inline
+  334  git log --oneline
+  335  mkdir Ecommerce
+  336  cd Ecommerce/
+  337  touch app.js
+  338  mkdir Ecommerce
+  339  cd Ecommerce/
+  340  touch app.js config.js
+  341  mkdir db
+  342  git init
+  343  git add .
+  344  git commit -m "mi primer commit"
+  345  git log
+  346  cd db/
+  347  touch producto_db.js
+  348  touch carrito_db.js
+  349  cd ..
+  350  git commit -m "guardando lo importante"
+  351  git add .
+  352  git status
+  353  git commit -m "guardando una parte del proyecto"
+  354  git status
+  355  cd db
+  356  rm producto_db.js 
+  357  git restore
+  358  git restore .
+  359  rm ../config.js 
+  360  git status
+  361  git add .
+  362  git commit -m "Sacando la configuracion"
+  363  git status
+  364  git status
+  365  git add .
+  366  git commit -m "Sacando la configuracion"
+  367  git init 
+  368  git clone https://github.com/CarolJVelez/SpringBootCarol.git
+  369  cd SpringBootCarol/
+  370  touch app.js
+  371  git status
+  372  git commit -m "mi primer commit"
+  373  git status
+  374  git push origin master
+  375  git status
+  376  git add .
+  377  git status
+  378  git status
+  379  git commit -m "mi primer commit"
+  380  git status
+  381  git push origin master
+  382  git status
+  383  mkdir Entrega1 Entrega2 Entrega3 Entrega4 Entrega5 Git-Github
+  384  cd Entrega1
+  385  touch README.md
+  386  cd ..
+  387  cd Entrega2
+  388  touch README.md
+  389  cd ..
+  390  cd Entrega3
+  391  touch README.md
+  392  cd ..
+  393  cd Entrega4
+  394  touch README.md
+  395  cd ..
+  396  cd Entrega5
+  397  touch README.md
+  398  cd ..
+  399  cd Git-Github/
+  400  touch README.md
+  401  cd ..
+  402  git init
+  403  git remote add origin https://github.com/CarolJVelez/Mochila-Carol-Velez.git
+  404  git remote -v
+  405  git push origin master
+  406  git branch  -M main
+  407  git push origin main
+  408  git status
+  409  git add .
+  410  git commit -m "Primer commit de la actividad"
+  411  git status
+  412  git push origin main
+  413  git log
+  414  ls -R
+  415  git branch trabajo_github
+  416  git checkout trabajo_github 
+  417  cd Git-Github/
+  418  touch cheatsheet.txt
+  419  git status
+  420  git add .
+  421  git commit -m "Se realiza el recordatorio de los comandos de git"
+  422  git status
+  423  git push origin trabajo_github 
+  424  code .
+  425  code.
+  426  code .
+  427  git init
+  428  git add .
+  429  git status
+  430  git commit -m "initial commit"
+  431  git status
+  432  git remote add origin https://github.com/CarolJVelez/FrontEnd.git
+  433  git  push origin master
+  434  code .
+  435  code .
+  436  code .
+  437  code .
+  438  git status
+  439  git add .
+  440  git commit -m "Actividad de heroes"
+  441  git status
+  442  git remote origin https://github.com/CarolJVelez/Fronten1-Digital.git
+  443  git remote add origin https://github.com/CarolJVelez/Fronten1-Digital.git
+  444  git remote -v
+  445  git push origin master 
+  446  code.
+  447  code .
+  448  code .
+  449  mkdir Actividades
+  450  cd Actividades/
+  451  mkdir Actividades/"Deportes de equipo" "Deportes Acuaticos" "Deportes Extremos" "Deportes de mesa" "Deportes Mentales"
+  452  mkdir Actividades/"Deportes de equipo" "Deportes Acuaticos" "Deportes Extremos" "Deportes de mesa" "Deportes Mentales"
+  453  mkdir Actividades/"Deportes de equipo"/ Actividades/"Deportes Acuaticos"/ Actividades/"Deportes Extremos"/ Actividades/"Deportes de mesa"/ Actividades/"Deportes Mentales"/
+  454  code .
+  455  mkdir Actividades
+  456  mkdir 
+  457  mkdir "Deportes de equipo" "Deportes acuaticos" "Deportes extremos" "Deportes de mesa" "Desportes mentales"
+  458  code .
+  459  ls -R
+  460  code .
+  461  git status
+  462  git checkout -b Entrega2
+  463  git status
+  464  git add .
+  465  git status
+  466  git commit -m "Actividad 2"
+  467  git status
+  468  git push origin Entrega2
+  469  cd Entrega1
+  470  mv carol.txt ../Entrega2
+  471  mv carol.txt Entre2
+  472  mv carol.txt Entrega2
+  473  mv carol.txt.txt Entrega2
+  474  mv Entrega2 ../Entrega2
+  475  git init
+  476  git remote add origin https://github.com/CarolJVelez/20230605-CarolVelez.git
+  477  mkdir comando.txt main.js index.html
+  478  git status
+  479  git add .
+  480  git status
+  481  git init
+  482  git remote add origin https://github.com/CarolJVelez/20230605-CarolVelez.git
+  483  touch comandos.txt main.js index.html
+  484  git status
+  485  git add .
+  486  git commit -m "commit 01 de CarolVelez"
+  487  git push origin master 
+  488  git branch feature01
+  489  git checkout feature01 
+  490  mkdir Terminal Hardware
+  491  touch Terminal/resumen.txt
+  492  touch Hardware/resumen.txt
+  493  git checkout -b feature02
+  494  code .
+  495  git status
+  496  git add .
+  497  git commit -m "Commit 02 de CarolVelez"
+  498  git status
+  499  git push origin feature02
+  500  touch comandos.txt main.js index.html
+  501  git init
+  502  git add .
+  503  git remote add origin https://github.com/CarolJVelez/20230605-CarolVelez.git
+  504  git commit -m "commit 01 Carol Velez"
+  505  git push origin master 
+  506  git checkout -b feature01
+  507  mkdir Terminal Hardware
+  508  touch resumen.txt/Terminal resumen.txt/Hardware
+  509  touch resumen.txt/Terminal
+  510  touch Terminal/resumen.txt
+  511  touch Hardware/resumen.txt
+  512  git add .
+  513  git commit -m "commit 02 CarolVelez"
+  514  git push origin feature01 
+  515  git checkout -b feature02
+  516  code .
+  517  git status
+  518  git add .
+  519  git commit -m "commit 03 Carol Velez"
+  520  git push origin feature02 
+  521  git checkout master 
+  522  mv comandos.txt comandosUtilizados.txt
+  523  history
+  524  history > comandosUtilizados.txt
