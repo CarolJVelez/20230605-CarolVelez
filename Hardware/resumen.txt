@@ -1,0 +1,4 @@
+placa madre 
+memorias
+Procesador 
+GPU 

@@ -1,0 +1,7 @@
+git init: inicializar el repositorio local
+git push origin rama: Enviar los archivos al repositorio remoto
+git pull origin rama: Traer los archivos del repositorio remoto
+git checkout rama: entrar a una rama especifica 
+git branch rama: crear una rama
+git add .: agregar los cambios y/o archivos 
+git commit .m "": guardar los cambios para el historial , en el repositorio local
